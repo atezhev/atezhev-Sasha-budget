@@ -1,0 +1,7 @@
+{
+  "name": "sasha-budget",
+  "private": true,
+  "scripts": { "build": "vite build", "dev": "vite" },
+  "dependencies": { "react": "^18", "react-dom": "^18" },
+  "devDependencies": { "vite": "^5", "@vitejs/plugin-react": "^4" }
+}
